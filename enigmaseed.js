@@ -47,8 +47,8 @@
 //////////////////////////////////////////////////////////
 if(process.argv.length != 4) {
     console.log("Invalid number of arguments!");
-    console.log("Usage: node enigmaseedi.js {language} {action}");
-    console.log("Example: node enigmaseedi.js english seed");
+    console.log("Usage: node enigmaseed.js {language} {action}");
+    console.log("Example: node enigmaseed.js english seed");
     return false;
 }
 
