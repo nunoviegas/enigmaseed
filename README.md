@@ -19,6 +19,9 @@ TIP2: according to the BIP39 specs, the first 4 letters of all the words in the 
 ### Usage:<br>
 *`node enigmaseed.js {language} {action}`*
 
+Ex: <br>
+*`node enigmaseed.js english seed`*
+
 language: a BIP39 .json file for the specified language must be present on the ./wordlists/ path
 
 action: `seed` to shift a seed word; `enigma` to recover a seed word
