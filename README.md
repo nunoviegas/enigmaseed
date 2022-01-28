@@ -26,5 +26,5 @@ language: a BIP39 .json file for the specified language must be present on the .
 
 action: `seed` to shift a seed word; `enigma` to recover a seed word
         
-There is an interactive menu, where you can supply supply the password and the seed words<br>
+There is an interactive menu, where you can supply the password and the seed words<br>
 This way, your password and seed words will not show on your command line history log
